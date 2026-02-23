@@ -1,25 +1,72 @@
-Digital Trust Protocol
+# Ajo Digital Trust
 
-## Founder
+Ajo Digital Trust is a digital savings vault designed to bring traditional African savings systems (Ajo / Esusu / Adro) into a secure digital environment.
 
-Ceejay Dice 
-Protocol Designer
+This project focuses on Digital Trust Enforcement using smart contracts.
+
+Instead of trusting a person, users trust the code.
+
+---
 
 ## Vision
 
-Ajo Digital Trust is a blockchain-based savings protocol designed to bring traditional African savings systems into a secure digital environment.
+To build a trusted digital savings system where:
 
-The system enforces discipline through locked savings periods and automated rules.
+- Funds cannot be stolen
+- Rules cannot be changed unfairly
+- Contributions are transparent
+- Withdrawals follow agreed rules
 
-This protocol focuses on:
+This project aims to grow into a Decentralized Savings Vault for communities.
 
-- Individual Savings Vaults
-- Target Based Savings
-- Locked Savings Periods
-- Emergency Withdrawal With Penalty
-- Treasury Sustainability
-- Group Contributions (Ajo)
+---
 
-This project is currently in the protocol design phase.
+## Current Stage
 
-The goal is to build a trusted digital savings infrastructure starting from Africa.
+This project is currently in the Protocol Design Stage.
+
+The behavior of the smart contract is being carefully designed before coding begins.
+
+---
+
+## Protocol Design
+
+The contract behavior is described here:
+
+ProtocolBehavior.md
+
+---
+
+## Key Ideas
+
+- Digital Trust Enforcement
+- Transparent Contributions
+- Secure Savings Vault
+- Community Savings
+- Smart Contract Rules
+
+---
+
+## Future Goals
+
+- Ajo Group Contributions
+- Stablecoin Savings
+- Mobile Friendly Interface
+- Decentralized Vault
+- Trustless Withdrawals
+
+---
+
+## Why This Matters
+
+Many local savings systems depend on trust in individuals.
+
+This project replaces human trust with code enforcement.
+
+---
+
+## Status
+
+Early Development
+
+Protocol design in progress.
