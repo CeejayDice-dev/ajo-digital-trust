@@ -7,6 +7,27 @@ This project focuses on Digital Trust Enforcement using smart contracts.
 Instead of trusting a person, users trust the code.
 
 ---
+## Current Version (V1)
+
+This repository is currently focused on Version 1:
+
+Strict Savings Vault Protocol.
+
+Features in Version 1:
+
+- 6 Month Savings Plan
+- 12 Month Savings Plan
+- User-defined Savings Target
+- Locked Funds Until Maturity
+- Emergency Withdrawal with 20% Penalty
+- Multiple Savings Plans per User
+- Treasury Fee Model
+
+Future Versions:
+
+- Contribution Groups (Ajo Groups)
+- Lending Features
+- Stablecoin Integration
 
 ## Vision
 
